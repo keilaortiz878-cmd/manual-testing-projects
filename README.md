@@ -4,7 +4,7 @@ Sprint 1 - Urban Routes Bug Testing
 - **Application Tested:** Urban Routes web app
 - **Testing Type:** Manual/Exploratory testing
 - **Bugs Found:** 14 bugs documented in Jira
-- **Duration:** [Add your timeframe]
+  
 
 ## Bug Reports
 This folder contains 14 screenshots of bug reports I created in Jira during my testing of the Urban Routes application.
