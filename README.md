@@ -1,11 +1,22 @@
- Sprint 1 - Bug Testing Results
+Sprint 1 - Urban Routes Bug Testing
 
-## Summary
-- Found X bugs during Urban Routes testing
-- All bugs documented in Jira
-- Screenshots show bug reports and testing evidence
+## Project Summary
+- **Application Tested:** Urban Routes web app
+- **Testing Type:** Manual/Exploratory testing
+- **Bugs Found:** 14 bugs documented in Jira
+- **Duration:** [Add your timeframe]
 
-## What's in this folder:
-- Screenshots of Jira bug reports
-- Evidence of bugs found during testing
-- Overview of testing process
+## Bug Reports
+This folder contains 14 screenshots of bug reports I created in Jira during my testing of the Urban Routes application.
+
+Each screenshot shows:
+- Bug description and steps to reproduce
+- Expected vs actual results
+- Priority and severity levels
+- Professional bug documentation
+
+## Skills Demonstrated
+- Manual testing techniques
+- Bug identification and analysis
+- Professional bug reporting in Jira
+- Attention to detail
