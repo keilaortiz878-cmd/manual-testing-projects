@@ -3,7 +3,7 @@ Testing the Urban Routes Taxi Service Application
 ## Project Summary
 - **Application Tested:** Urban Routes web app
 - **Testing Type:** Manual/Exploratory testing
-- **Bugs Found:** 14 bugs documented in Jira
+- **Bugs Found:** 11 bugs documented in Jira
   
 
 ## Bug Reports
