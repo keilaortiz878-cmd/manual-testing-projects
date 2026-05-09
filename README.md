@@ -1,4 +1,4 @@
-Sprint 1 - Urban Routes Bug Testing
+Urban Routes Bug Testing
 
 ## Project Summary
 - **Application Tested:** Urban Routes web app
